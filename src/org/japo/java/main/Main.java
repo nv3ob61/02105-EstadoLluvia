@@ -23,7 +23,7 @@ public class Main {
 
     public static void main(String[] args) {
                 
-        boolean lluvia = false;
+        boolean lluvia = true;
         
         System.out.println(lluvia);
     }
